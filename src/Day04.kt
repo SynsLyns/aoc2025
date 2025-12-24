@@ -55,7 +55,6 @@ class Day4 (
     }
 
     fun partTwo(): Any {
-
         var total = 0
         while(true) {
             val removed = partOne(
